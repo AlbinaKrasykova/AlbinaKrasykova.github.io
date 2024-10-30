@@ -1,6 +1,6 @@
-<img src="/assets/img/5O6A6386.jpg" alt="NLP lecture" width="100" style="border-radius: 30%; overflow: hidden; background-color: white;">
-
-
+<p align="center">
+  <img src="/assets/img/5O6A6386.jpg" alt="NLP lecture" width="100" style="border-radius: 40%; overflow: hidden; background-color: white;">
+</p>
 
 # ML & AI engineer
 
