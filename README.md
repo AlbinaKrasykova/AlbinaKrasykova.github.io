@@ -24,15 +24,9 @@
   Have collected/labeled 11K+ dataset, successfully utilized and developed solutions using OpenCV and python programming. 
 
 
-## Projects
-
-- ### NLP summarizer application (part of the NLP crash course)
-
-<img src="/assets/img/nlp_lecture.jpeg" alt="NLP lecture" width="400">
-
-
-## Talks & Lectures
+## Lectures & Projects
 - Intro to NLP: Machine Learning lifecycle with a focus on NLP
+<img src="/assets/img/nlp_lecture.jpeg" alt="NLP lecture" width="400">
 - Real Time Weather full stack App with Flask & HTML & CSS & OpenWeather API March 2024 
 - Computer Vision Malaria Classification with CNN & Deep Learning   January 2024
 - AI Recommendation System with KNN for Google  challenge  April 2023
