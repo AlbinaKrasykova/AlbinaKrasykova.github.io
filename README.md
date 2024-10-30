@@ -1,4 +1,4 @@
-<img src="/assets/img/profile.jpeg" alt="NLP lecture" width="400" style="border-radius: 100%; overflow: hidden; background-color: white;">
+<img src="/assets/img/5O6A6386.jpg" alt="NLP lecture" width="400" style="border-radius: 100%; overflow: hidden; background-color: white;">
 
 
 # ML & AI engineer
