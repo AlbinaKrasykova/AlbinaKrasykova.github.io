@@ -1,18 +1,3 @@
-<p align="center">
-  <img src="/assets/img/5O6A6386.jpg" alt="NLP lecture" width="100" style="border-radius: 40%; overflow: hidden; background-color: white;">
-</p>
-
-<div style="background-color: #red; border-radius: 15px; padding: 20px; text-align: center; max-width: 400px; margin: auto;">
-  
-
-  
-  <h2 style="color: white; font-family: Arial, sans-serif;">ML Engineer</h2>
-  
-  <p style="color: white; font-family: Arial, sans-serif;">Passionate about building and deploying machine learning solutions that make a difference. Specializes in developing end-to-end machine learning pipelines and integrating AI into applications.</p>
-
-</div>
-
-
 # ML & AI engineer
 
 #### Skills: Languages : Python, Java, Flask, SQL, HTML & CSS. Libraries & Software:  Pandas, Matplotlib, OpenCV, Seaborn, Numpy, Tensorflow, Scikit-learn, Tableau, Microsoft Suite.
