@@ -26,7 +26,7 @@
 
 ## Lectures & Projects
 - Intro to NLP: Machine Learning lifecycle with a focus on NLP
-<img src="/assets/img/nlp_lecture.jpeg" alt="NLP lecture" width="400">
+<img src="/assets/img/nlp_lecture.jpeg" alt="NLP lecture" width="300">
 
 - Real Time Weather full stack App with Flask & HTML & CSS & OpenWeather API March 2024 
 - Computer Vision Malaria Classification with CNN & Deep Learning   January 2024
