@@ -1,3 +1,5 @@
+<img src="/assets/img/profile.jpeg" alt="NLP lecture" width="400" style="border-radius: 50%; overflow: hidden;">
+
 # ML & AI engineer
 
 #### Skills: Languages : Python, Java, Flask, SQL, HTML & CSS. Libraries & Software:  Pandas, Matplotlib, OpenCV, Seaborn, Numpy, Tensorflow, Scikit-learn, Tableau, Microsoft Suite.
