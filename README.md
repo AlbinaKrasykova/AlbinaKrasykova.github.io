@@ -2,9 +2,9 @@
   <img src="/assets/img/5O6A6386.jpg" alt="NLP lecture" width="100" style="border-radius: 40%; overflow: hidden; background-color: white;">
 </p>
 
-<div style="background-color: #40E0D0; border-radius: 15px; padding: 20px; text-align: center; max-width: 400px; margin: auto;">
+<div style="background-color: #red; border-radius: 15px; padding: 20px; text-align: center; max-width: 400px; margin: auto;">
   
-  <img src="https://your-image-url.jpg" alt="ML Engineer" width="150" style="border-radius: 50%; margin-bottom: 15px;">
+
   
   <h2 style="color: white; font-family: Arial, sans-serif;">ML Engineer</h2>
   
