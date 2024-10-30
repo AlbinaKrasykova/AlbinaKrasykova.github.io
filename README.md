@@ -3,7 +3,7 @@
 #### Skills: Languages : Python, Java, Flask, SQL, HTML & CSS. Libraries & Software:  Pandas, Matplotlib, OpenCV, Seaborn, Numpy, Tensorflow, Scikit-learn, Tableau, Microsoft Suite.
 
 ## Education			        		
-- B.S., Computer Science, Lehman College, CUNY (2021 -2024)
+- B.S. Computer Science, Lehman College, CUNY (2021 -2024)
 - Break Trough Tech AI, ML Cornell Tech Fellow (2022 -2023)
 
 ## Work Experience
