@@ -20,13 +20,14 @@
 - Analyzed the MTA data, and built an ML model that predicted an efficient usage of the resources for the C&D team.
 
 **SWE & Computer Vision research at Cornell Tech (June - September 2023)** 
-  Developed a scoring system for an image processing pipeline (tracks conditions - distance, angle, lighting). The scoring system delivers the pipeline performance score, and gives feedback on how an image processing pipeline performed under the conditions. 
-  Have collected/labeled 11K+ dataset, successfully utilized and developed solutions using OpenCV and python programming. 
+- Developed a scoring system for an image processing pipeline (tracks conditions - distance, angle, lighting). The scoring system delivers the pipeline performance score, and gives feedback on how an image processing pipeline performed under the conditions.
+- Have collected/labeled 11K+ dataset, successfully utilized and developed solutions using OpenCV and python programming. 
 
 
 ## Lectures & Projects
 - Intro to NLP: Machine Learning lifecycle with a focus on NLP
 <img src="/assets/img/nlp_lecture.jpeg" alt="NLP lecture" width="400">
+
 - Real Time Weather full stack App with Flask & HTML & CSS & OpenWeather API March 2024 
 - Computer Vision Malaria Classification with CNN & Deep Learning   January 2024
 - AI Recommendation System with KNN for Google  challenge  April 2023
